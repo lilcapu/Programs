@@ -18,4 +18,4 @@ This [repository](https://github.com/lilcapu/Programs.git) is where I keep my pr
 # Projects
 Find the latest project I am working on in the [Projects tab](https://github.com/users/lilcapu/projects/1/views/1) section.
 
-# ** Updates coming soon! 😀 **
+
